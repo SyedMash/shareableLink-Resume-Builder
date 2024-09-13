@@ -91,7 +91,7 @@ window.addEventListener("DOMContentLoaded", () => {
           skillElement.classList.add("setSkills");
           skillElement.textContent = e.trim();
           showskills.appendChild(skillElement);
-        subbtn.style.display = "block
+          subtn.style.display = "block
         });
     }
 });
