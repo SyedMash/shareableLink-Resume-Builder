@@ -87,6 +87,7 @@ editbtn.addEventListener("click", function (e) {
     form.style.display = "flex";
     result.style.display = "none";
     editbtn.style.display = "none";
+    subtn.style.display = "block"
     shareLinkCont.style.display = "none";
     while (showskills.firstChild) {
         showskills.removeChild(showskills.firstChild);
